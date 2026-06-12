@@ -49,15 +49,6 @@ naturally from the solution, confirming the physical consistency of the solver.
 
 ![Validation](/results/validation.png)
 
-## Build & Run
-
-```bash
-mkdir build && cd build
-cmake ..
-make
-./Solver1D_TuyereLaval
-```
-Requires: C++17 compiler, CMake ≥ 3.16
 ## Project Structure
 
 ```
